@@ -1,5 +1,5 @@
-name: hello-world-stack
-description: Create hello world stack
+name: greetings-world-stack
+description: Create a greetings world stack
 author: Jane Doe
 branding:
   icon: 'award'
